@@ -11,10 +11,10 @@ Some of you would like to still collaborate.  In that case, you will be placed w
 For those of you looking to work independently, I'd like you to start by creating a **Note-Taking Application** in the IDE of your choice (Xcode or Android Studio).
 ## Note-Taking Application
 The minimum viable product for this:
-Create an app that allows the user to edit a block of text
-The user should be able to save the block of text
-The user should be able to close the application completely and reopen it to the same block of text
+- Create an app that allows the user to edit a block of text
+- The user should be able to save the block of text
+- The user should be able to close the application completely and reopen it to the same block of text
 Stretch goals:
-The user should be able to have multiple notes saved in a list format they can select and edit and save to.
-The user should be able to insert images to their notes
+- The user should be able to have multiple notes saved in a list format they can select and edit and save to.
+- The user should be able to insert images to their notes
 *This should be completed by April 16th*
